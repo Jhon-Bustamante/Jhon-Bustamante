@@ -32,5 +32,5 @@ practice, and I'm building public projects here as I learn.
 ---
 
 ## 📫 Reach me
-- LinkedIn: [linkedin.com/in/jhonbustamante](https://linkedin.com/in/jhonbustamante)
+- LinkedIn: [linkedin.com/in/jhon-bs](https://linkedin.com/in/jhon-bs)
 - Email: jhonbustamante741@gmail.com
